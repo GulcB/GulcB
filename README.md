@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Phyton, C, Swift**
 - I'm developing C projects at 42 Turkiye 👩‍💻
-- I'm aiming to be a Data Engineer 👀
   
 - 📫 How to reach me **bodurrgulcin@gmail.com**
 
