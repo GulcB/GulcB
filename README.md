@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GulcB&color=brightgreen&style=flat&label=Profile+views)
 
+<div align="left">
+
 ### 🌱 What I'm up to
 
 - 🚀 I'm currently learning Phyton, C, Swift
@@ -30,12 +32,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fsoymaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fsoymaz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-### Most Used Languages
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulcB&layout=donut-vertical&theme=dark" alt="Most Used Languages"/>
 </div>
 
 ### 🤝 Connect with me
