@@ -4,9 +4,9 @@
 
 ### Senior Computer Science Engineering Student in Turkiye
 
-![Profile Views](https://komarev.com/ghpvc/?username=GulcB&color=brightgreen&style=flat&label=Profile+views)
-
 <div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=GulcB&color=brightgreen&style=flat&label=Profile+views)
 
 ### 🌱 What I'm up to
 
