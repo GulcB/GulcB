@@ -8,9 +8,9 @@
 
 ### 🌱 What I'm up to
 
-- 🚀 I'm currently learning Phyton, C, Swift
-- 💻 I'm developing C projects at 42 Turkiye 🏰
-- 📫 How to reach me: [bodurgulcin@gmail.com](mailto:bodurgulcin@gmail.com)
+ 🚀 I'm currently learning Phyton, C, Swift
+ 💻 I'm developing C projects at 42 Turkiye 🏰
+ 📫 How to reach me: [bodurgulcin@gmail.com](mailto:bodurgulcin@gmail.com)
 
 ### 🛠️ Languages and Tools
 
