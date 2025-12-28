@@ -28,15 +28,12 @@ I am a Computer Engineer focused on building **Agentic AI** systems. My backgrou
 
 | **Minishell (Unix Shell)** |
 |:---:|
-| A fully functional Unix shell built from scratch in **C** to master OS architecture. |
 | [View Repository](https://github.com/GulcB/42_Minishell) |
 
+| **IoT Live Fleet Tracking System** |
+|:---:|
+| [View Repository](https://github.com/GulcB/IoT_Live_Fleet_Tracking_and_Alert_System) |
+
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GulcB&show_icons=true&theme=radical" alt="Gulcin's Stats" width="400" />
-</p>
 
 [linkedin]: https://www.linkedin.com/in/gulcinbodur/
